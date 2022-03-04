@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siddharth-raj-0a2292208/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:Loves football
--->
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Siddharthraj7)
