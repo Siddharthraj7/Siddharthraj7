@@ -8,3 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:Loves football
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=Siddharthraj7)
