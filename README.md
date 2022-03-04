@@ -11,3 +11,4 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Siddharthraj7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Siddharthraj7)
